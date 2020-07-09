@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I currently work for the BBC
+- I'm in Glasgow, Scotland! 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- I mainly work with Javascript (Node.js/React)
