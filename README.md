@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Julien 👋
 
 <!--
 **djorak/djorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I currently work for the BBC
-- I'm in Glasgow, Scotland! 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- I currently work for the BBC (previously on Bitesize, now on internal editorial tools)
+- I'm French, but...
+- I live and work in Glasgow, Scotland! 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 - I mainly work with Javascript (Node.js/React)
