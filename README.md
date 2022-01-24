@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I currently work for the BBC (previously on Bitesize, now on internal editorial tools)
+- I currently work as a Principal Software Engineer for Phlo, the digital pharmacy
+- I use to work as a software engineer at the BBC for a few years
 - I'm French, but...
 - I live and work in Glasgow, Scotland! 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-- I mainly work with Javascript (Node.js/React)
+- I mainly work with Javascript, Typescript and React but love exploring other programming languages
